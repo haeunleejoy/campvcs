@@ -1,0 +1,13 @@
+noun1 = input("First noun:")
+place1 = input("First place:")
+noun2 = input("Second noun:")
+verb1 = input("First verb:")
+adjective1 = input("First adjective:")
+noun3 = input("Third noun:")
+verb2 = input("Second verb:")
+place2 = input("Second place:")
+adjective2 = input("Second adjective:")
+noun3 = input("Third noun:")
+adjective3 = input("Third adjective:")
+
+print(noun1 + " went to " + place1 + " and it was " + adjective1 + ". " + " Yesterday, " + noun2 + " was " + verb1 + "ing " " in " + place2 + "." + noun2 + " said that it was " + adjective2 + ". " + " However, " + noun3 + " said that it is " + adjective3 + ". ")
